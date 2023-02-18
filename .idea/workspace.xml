@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c3a0898-58f7-4879-89fa-90c2818a0485" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/minimal_packages/ua/com/alevel/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/minimal_packages/ua/com/alevel/test/What.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/package/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/package/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/package/What.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/package/What.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/separate_packages/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/separate_packages/test/What.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level1/simple/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2/minimal_jar/build/jar/hello.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2/minimal_jar/resources/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2/minimal_jar/src/ua/com/alevel/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2/minimal_jar/src/ua/com/alevel/test/What.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2/minimal_proj/src/ua/com/alevel/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2/minimal_proj/src/ua/com/alevel/test/What.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2_extended/build/classes/ua/com/alevel/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2_extended/library/commons-lang3-3.12.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2_extended/resources/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2_extended/src/ua/com/alevel/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level2_extended/src/ua/com/alevel/test/What.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/remove-class.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_5_online.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_5_online.iml" afterDir="false" />
+    <list default="true" id="1c3a0898-58f7-4879-89fa-90c2818a0485" name="Changes" comment="hw_1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675715428641</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw_1">
+      <created>1676725450765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676725450765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="hw_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_1" />
   </component>
 </project>
